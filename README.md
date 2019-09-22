@@ -1,8 +1,8 @@
-# linkedin2.0
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-# How to run the Chat !!
+# How to run Chat ?
 
 (You must have the server running in terminal )
 
@@ -15,7 +15,7 @@
 --> Run the client Side and go to message 
 
 -----------------------------------------------------------------------------------------------------------------------------
-# How to Run the Client side !!
+# How to Run the Client side ?
 
 > cd client
 
@@ -25,7 +25,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-# How to run the Server ! with Docker 
+# How to run the Server with Docker ? 
 (No need to open XAMPP or phpmyadmin or any Server)
 
 > docker pull mysql
@@ -56,7 +56,7 @@ If you make change to the code you have to redeploy the app
 
 ----------------------------------
 
-# Start Old container
+# Start old container
 
 > sudo docker start mysql-standalone
 
